@@ -70,14 +70,11 @@ This project demonstrates the ability to turn raw HR data into visual insights u
 
 ## Preview
 
---- <a href = 
+ <a href = "https://github.com/Vinutha-C03/hr-analytics-dashboard/blob/main/Screenshot%20.png"> Dashboard </a>
 
-## 📁 Files
+##  Files
 
-- `.pbix` file – Power BI dashboard file  
-- `README.md` – Project documentation
-
----
+<a href = " ">Dataset</a>
 
 
 
